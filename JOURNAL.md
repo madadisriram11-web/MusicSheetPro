@@ -113,7 +113,7 @@ First, I mapped out all of the Raspberry Pi's pins in KiCad. I did this by makin
 
 ( It's hard to tell bc of my computer's horrible camera, but the black one is the Arduino with the white writing indicating what each pin hole is for. The green one is the Raspberry Pi, and it has no clear indication)
 
-To remedy this problem in the dumbest way possible, I spent SO long talking to Gemini to figure out which hole did what, and I was being very stupid, because on the Raspberry Pi webpage, they have an extremely useful guide on how to use the GPIO pins. (Linked at the bottom)
+To remedy this problem in the dumbest way possible, I spent SO long talking to Gemini to figure out which hole did what, and I was being very stupid, because on the Raspberry Pi webpage, they have an extremely useful guide on how to use the GPIO pins.
 
 Then, I spent some time learning what each pin did, such as GND, Power, general-purpose, and specialized purpose, such as stuff like video input and output as well as audio input and output. Wiring each pin together was quite a difficult process for me to understand, because it involved understanding that some of the pins had specialized features that I did not know of, like audio and video. I had to spend a lot of time cross-checking the data of the purchased product and the Raspberry Pi to make sure the code would execute properly based on the pins.
 
