@@ -35,7 +35,7 @@ Day 2: WORK
 
 All week I have barely been putting in work, so today was full of cramming.
 
-Hour 0-1.5:
+Hour 0-2:
 I started out by fully defining what my project was to do. In the beginning, I wanted it to be able to do outputs and inputs. I play the violin, so my idea was that the project should be able to take what I play, find the frequencies, and tell me if it is conforming to how the piece was written. I had to think for a while about what I really wanted, and I tried to think about stuff I always had problems with playing teh violin. One was defintly the difficulty (no duh), but I can't reallychange that. Another was not being able to really understand the piece  and how it was supposed to sound. Sure, I could look up a performance of it, but it was inconvinient, because when you are practicing, you want to iterating the tempo of the piece. A lot of pieces sound really goofy too slow or fast, so I would never really know what it was supposed to sound like when practicing.
 
 That was really what sparked my idea - after a good 1 hour of thinking. (PS: this journal entry was made late and did span the same work session as the TimeLapse, but i forgot to add it to the same entry :)) Lots of thanks to MuseScore, because they let you play your piece at different volumes and tempos, so they partially helped me come up with the idea, though I remebered them after coming up the concept. I dunno maybe it was like subconciously inspired.
@@ -52,7 +52,7 @@ I slimmed my project down real good. First I scrapped the end part. I took out t
 
 Finall, looking back on the project, I feared I slimmed it down too much (I definitly did not, but oh well) so I added leds to blink at every beat and measure.
 
-Hour 1.5-3: Part Search:
+Hour 2-4: Part Search:
 
 This hour was decently chill, as I was a mainly just comparing deals, window shopping at Digikey (too expensive for my budget), and deciding what parts I wanted. I ranked what I needed to be good quality to least, and I had my microcontroller at top, audio module next, speakers, display, rotary dial (for tempo), and LEDS at the last place (who needs good quality LEDS am I right?).
 
@@ -69,7 +69,7 @@ I had to really look into the specs of both of these items because both of them 
 
 ![image](https://halflife.hackclub-assets.com/sessions/wqTzuosjo4Cs9kmuI53ss6gj7yDmRmwn/20cc8c0e9412619f0902e9e23077d9e718a5153106d2d544ad7fe2fbd360dffe.png)
 
-Hour 3-5: CAD
+Hour 4-6.5: CAD
 
 This hour was all about designing an enclosure for my project. I had to start by determining sizes for my enclosure.
 
