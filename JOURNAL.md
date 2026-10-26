@@ -23,6 +23,8 @@
 
 **0.57h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/e1fcaf7b-054f-486a-b3ce-c77130d50019/video.mp4)
 
 ### 2026-10-25 – Day 2: WORK
