@@ -20,6 +20,26 @@ Then, when the user plays the file, it will show them the notes and beats and al
 
 | Pin # | Connection |
 | -- | -- |
+| Pin 1 | OLED Display 3.3V |
+| Pin 2 | GND |
+| Pin 3 | OLED SDA |
+| Pin 5 | OLED SCL |
+| Pin 6 | GND |
+| Pin 9 | GND |
+| Pin 11 | Push Button 1 |
+| Pin 12 | Audio BCLK |
+| Pin 13 | Push Button 2 |
+| Pin 14 | GND |
+| Pin 15 | Push Button 3 |
+| Pin 29 |  Rotary Encoder CLK |
+| Pin 31 | Roatry Encoder DT |
+| Pin 33 | Rotary Encoder SW |
+| Pin 35 | Audio LRC |
+| Pin 36 | Push Button 4 |
+| Pin 40 | Audio DIN |
+
+
+
 
 
 
